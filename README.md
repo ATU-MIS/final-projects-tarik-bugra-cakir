@@ -65,6 +65,17 @@ DB --> AC : appointmentList
 AC --> UI : displayAppointments
 UI --> Doctor : Show Appointment List
 @enduml
+
+## Web Uygulaması
+
+Proje, web tabanlı bir uygulama olarak geliştirilmiştir.
+Aşağıdaki dosyalar web uygulamasına aittir:
+
+- `index.html` – ana sayfa yapısı
+- `script.js` – istemci tarafı işlevleri
+- `style1.css` – stil ve sayfa düzeni
+
+
 USABILITY TEST REPORT
 1. Introduction
 Bu kullanılabilirlik testi, Hastane Randevu Sistemi üzerinde gerçekleştirilmiştir. Sistem;
